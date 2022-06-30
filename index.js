@@ -21,3 +21,6 @@ for(let i = 0; i < newNumber.length; i++){
     }
 }
 console.log(newNumber);
+//join newNumber array to make a number
+newNumber = newNumber.join('');
+console.log(newNumber);
